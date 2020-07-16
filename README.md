@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 💬 I work at SSW as a Product Evangelist for SugarLearning. https://sugarlearning.com.au
+
+- 🌱 I graduated from the University of Missouri with a degree in Business Administraion - Management and a Minor in Entrepreneurship!
+
+- 🤔 I enjoy working with developers and other technical people to solve problems and create useful products!
+
+- 📫 How to reach me: @N4teM on Twitter
 <!--
 **SSWnathanmills/sswnathanmills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
